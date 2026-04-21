@@ -5,7 +5,7 @@
 ![Engine](https://img.shields.io/badge/Intelligence-GROQ_LLAMA_3.3-blue?style=for-the-badge)
 ![Imagery](https://img.shields.io/badge/Imagery-HF_FLUX_1-purple?style=for-the-badge)
 
-**SCAN_ARCHIVE PRO** is a high-fidelity AI object scanner and archival system designed for the **TRDC** (Tactical Research & Discovery Corps). It leverages high-speed inference for immediate trivia extraction and state-of-the-art diffusion for archival subject visualization.
+**SCAN_ARCHIVE PRO** is a high-fidelity AI object scanner and archival system. It leverages high-speed inference for immediate trivia extraction and state-of-the-art diffusion for archival subject visualization. Developed under the **TRDC** brand.
 
 ## 🛡️ Core Features
 
