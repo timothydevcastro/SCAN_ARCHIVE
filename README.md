@@ -5,6 +5,9 @@
 ![Engine](https://img.shields.io/badge/Intelligence-GROQ_LLAMA_3.3-blue?style=for-the-badge)
 ![Imagery](https://img.shields.io/badge/Imagery-HF_FLUX_1-purple?style=for-the-badge)
 
+**LIVE DEMO: [scan-archive.vercel.app](https://scan-archive.vercel.app/)**
+**REPOSITORY: [github.com/timothydevcastro/SCAN_ARCHIVE](https://github.com/timothydevcastro/SCAN_ARCHIVE)**
+
 **SCAN_ARCHIVE PRO** is a high-fidelity AI object scanner built for the curious. Traditional searching often leads to information overload; this tool is designed to cut through the noise, delivering streamlined, high-speed trivia for rapid knowledge acquisition. Developed under the **TRDC** brand.
 
 ## 🛡️ Core Features
